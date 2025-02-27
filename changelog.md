@@ -19,3 +19,4 @@ Release v0.0.6
 ## 📈 Stats
 
 **Full Changelog**: [`v0.0.5..v0.0.6`](https://github.com/stackblitz-labs/bolt.diy/compare/v0.0.5...v0.0.6)
+
